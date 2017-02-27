@@ -1,0 +1,39 @@
+c:\users\matthew\documents\visual studio 2015\Projects\ChipotleNews\ChipotleNews\obj\Debug\ChipotleNews.csprojResolveAssemblyReference.cache
+c:\users\matthew\documents\visual studio 2015\Projects\ChipotleNews\ChipotleNews\bin\Bot Application1.dll.config
+c:\users\matthew\documents\visual studio 2015\Projects\ChipotleNews\ChipotleNews\bin\Bot Application1.dll
+c:\users\matthew\documents\visual studio 2015\Projects\ChipotleNews\ChipotleNews\bin\Bot Application1.pdb
+c:\users\matthew\documents\visual studio 2015\Projects\ChipotleNews\ChipotleNews\bin\Autofac.dll
+c:\users\matthew\documents\visual studio 2015\Projects\ChipotleNews\ChipotleNews\bin\Chronic.dll
+c:\users\matthew\documents\visual studio 2015\Projects\ChipotleNews\ChipotleNews\bin\Microsoft.Bot.Builder.dll
+c:\users\matthew\documents\visual studio 2015\Projects\ChipotleNews\ChipotleNews\bin\Microsoft.Bot.Connector.dll
+c:\users\matthew\documents\visual studio 2015\Projects\ChipotleNews\ChipotleNews\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\matthew\documents\visual studio 2015\Projects\ChipotleNews\ChipotleNews\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\matthew\documents\visual studio 2015\Projects\ChipotleNews\ChipotleNews\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\matthew\documents\visual studio 2015\Projects\ChipotleNews\ChipotleNews\bin\Newtonsoft.Json.dll
+c:\users\matthew\documents\visual studio 2015\Projects\ChipotleNews\ChipotleNews\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\matthew\documents\visual studio 2015\Projects\ChipotleNews\ChipotleNews\bin\System.Net.Http.Formatting.dll
+c:\users\matthew\documents\visual studio 2015\Projects\ChipotleNews\ChipotleNews\bin\System.Web.Http.dll
+c:\users\matthew\documents\visual studio 2015\Projects\ChipotleNews\ChipotleNews\bin\System.Web.Http.WebHost.dll
+c:\users\matthew\documents\visual studio 2015\Projects\ChipotleNews\ChipotleNews\bin\Autofac.xml
+c:\users\matthew\documents\visual studio 2015\Projects\ChipotleNews\ChipotleNews\bin\Microsoft.Bot.Builder.xml
+c:\users\matthew\documents\visual studio 2015\Projects\ChipotleNews\ChipotleNews\bin\Microsoft.Bot.Connector.xml
+c:\users\matthew\documents\visual studio 2015\Projects\ChipotleNews\ChipotleNews\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+c:\users\matthew\documents\visual studio 2015\Projects\ChipotleNews\ChipotleNews\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\matthew\documents\visual studio 2015\Projects\ChipotleNews\ChipotleNews\bin\Microsoft.Rest.ClientRuntime.xml
+c:\users\matthew\documents\visual studio 2015\Projects\ChipotleNews\ChipotleNews\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\matthew\documents\visual studio 2015\Projects\ChipotleNews\ChipotleNews\bin\Newtonsoft.Json.xml
+c:\users\matthew\documents\visual studio 2015\Projects\ChipotleNews\ChipotleNews\bin\System.IdentityModel.Tokens.Jwt.pdb
+c:\users\matthew\documents\visual studio 2015\Projects\ChipotleNews\ChipotleNews\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\matthew\documents\visual studio 2015\Projects\ChipotleNews\ChipotleNews\bin\System.Net.Http.Formatting.xml
+c:\users\matthew\documents\visual studio 2015\Projects\ChipotleNews\ChipotleNews\bin\System.Web.Http.xml
+c:\users\matthew\documents\visual studio 2015\Projects\ChipotleNews\ChipotleNews\bin\System.Web.Http.WebHost.xml
+c:\users\matthew\documents\visual studio 2015\Projects\ChipotleNews\ChipotleNews\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\matthew\documents\visual studio 2015\Projects\ChipotleNews\ChipotleNews\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\matthew\documents\visual studio 2015\Projects\ChipotleNews\ChipotleNews\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\matthew\documents\visual studio 2015\Projects\ChipotleNews\ChipotleNews\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\matthew\documents\visual studio 2015\Projects\ChipotleNews\ChipotleNews\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\matthew\documents\visual studio 2015\Projects\ChipotleNews\ChipotleNews\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\matthew\documents\visual studio 2015\Projects\ChipotleNews\ChipotleNews\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\matthew\documents\visual studio 2015\Projects\ChipotleNews\ChipotleNews\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\matthew\documents\visual studio 2015\Projects\ChipotleNews\ChipotleNews\obj\Debug\Bot Application1.dll
+c:\users\matthew\documents\visual studio 2015\Projects\ChipotleNews\ChipotleNews\obj\Debug\Bot Application1.pdb
